@@ -1,0 +1,54 @@
+
+
+h1{
+
+  font-family: 'Roboto Condensed', sans-serif;
+  text-align: center;
+
+}
+
+
+.art{
+  margin: auto;
+}
+
+td{
+    height: 200px;
+    padding: 100px;
+    border: 6px solid white;
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: center;
+    font-size: 80px;
+  }
+
+#first{
+
+  background-color: #ED6A5A;
+
+
+
+}
+
+#second{
+
+  background-color: #F4F1BB;
+
+}
+
+#third{
+
+  background-color: #9BC1BC;
+
+}
+
+#fourth{
+
+  background-color: #5CA4A9;
+
+}
+
+#fifth{
+
+  background-color: #E6EBE0;
+
+}
